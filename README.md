@@ -94,8 +94,8 @@ http://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-unde
 http://www.thegeekstuff.com/2008/09/bash-shell-ps1-10-examples-to-make-your-linux-prompt-like-angelina-jolie/
 
     nano ~/.bashrc
-    alias PSlong='PS1="\\e[0;32m\u\e[m@\h:\\w\\$"'
-    alias PSshort='PS1="\e[0;32m[\W:$ \e[m "'
+    alias PSlong='PS1="\[\033[01;32m\]\u\[\033[m\]@\h:\\w\\$ "'
+    alias PSshort='PS1="\[\033[01;32m\]\W\[\033[m\]:$ "'
 
 
 
