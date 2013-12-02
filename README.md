@@ -8,6 +8,10 @@
     
 [Install Gnome on Ubuntu 12.04](http://www.filiwiese.com/installing-gnome-on-ubuntu-12-04-precise-pangolin/)
 
+> *Note:* On Ubuntu 13.10, installing Gnome 3.10 will **break** some of the existing futures, even the display manager.
+>
+> *Note:* Ubuntu 13.10 ships with the Gnome 3.8 repositories by default, so you can skip **_add-apt-repository_**
+
 ##Bottom Taskbar (GNOME 3)
 
     $ sudo apt-get install tint2
