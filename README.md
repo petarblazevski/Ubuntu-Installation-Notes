@@ -12,7 +12,7 @@
 >
 > *Note:* Ubuntu 13.10 ships with the Gnome 3.8 repositories by default, so you can skip **_add-apt-repository_**
 
-##Bottom Taskbar (GNOME 3)
+###Bottom Taskbar (GNOME 3)
 
     $ sudo apt-get install tint2
     $ tint2 &
