@@ -57,6 +57,7 @@ In some cases you will encounter an error while installing the gem. Install the 
 
 	$ sudo apt-get --yes --force-yes install libxslt1-dev libxml2-dev ruby-dev
 	$ gem install rdoc
+	$ gem install nodejs
 		
 ###LiveReload (plugin for chrome)
 
