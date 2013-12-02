@@ -48,6 +48,11 @@
     // $ gem install guard-livereload
     // $ gem install guard-concat
     // $ gem install guard-uglify
+    
+In some cases you will encounter an error while installing the gem. Install the following packages and gems, and return to the previous one
+
+	$ sudo apt-get --yes --force-yes install libxslt1-dev libxml2-dev ruby-dev
+	$ gem install rdoc
 		
 ###LiveReload (plugin for chrome)
 
