@@ -10,7 +10,7 @@
 
 > *Note:* On Ubuntu 13.10, installing Gnome 3.10 will **break** some of the existing futures, even the display manager.
 >
-> *Note:* Ubuntu 13.10 ships with the Gnome 3.8 repositories by default, so you can skip **_add-apt-repository_**
+> *Note:* Ubuntu 13.10 ships with the Gnome 3.8 repositories by default, so you can skip **_add-apt-repository_** step
 
 ###Bottom Taskbar (GNOME 3)
 
